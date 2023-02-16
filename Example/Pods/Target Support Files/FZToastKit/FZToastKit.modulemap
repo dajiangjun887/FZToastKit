@@ -1,0 +1,6 @@
+framework module FZToastKit {
+  umbrella header "FZToastKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

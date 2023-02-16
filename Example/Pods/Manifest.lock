@@ -1,0 +1,16 @@
+PODS:
+  - FZToastKit (0.1.0)
+
+DEPENDENCIES:
+  - FZToastKit (from `../`)
+
+EXTERNAL SOURCES:
+  FZToastKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FZToastKit: d6ca1717cfbe15f36535241eb2635818f140c9b1
+
+PODFILE CHECKSUM: 2adbdb94fc5b651ecb1a9a8013eacb40e6b199f2
+
+COCOAPODS: 1.11.3

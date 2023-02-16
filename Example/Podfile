@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FZToastKit_Example' do
+  pod 'FZToastKit', :path => '../'
+
+  target 'FZToastKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
